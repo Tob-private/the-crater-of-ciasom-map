@@ -1,1 +1,0 @@
-Lathernia is a country. [Halrani](/Lathernia/Halrani/Halrani) is the capital

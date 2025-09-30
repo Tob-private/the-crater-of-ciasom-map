@@ -1,8 +1,12 @@
 import Image from "next/image";
+import Markdown from "react-markdown";
+import MarkdownWrapper from "./components/markdown/markdown-wrapper";
 
-export default function Home() {
+export default async function Home() {
+
   
   return (
-    <h1>asdas</h1>
+    <MarkdownWrapper/>
+    // <Markdown>{markdown}</Markdown>
   );
 }

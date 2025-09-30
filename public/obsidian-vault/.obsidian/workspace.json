@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "010db0408df7951b",
+    "type": "split",
+    "children": [
+      {
+        "id": "299970679f4e33cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280e5f21f6ef3164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lathernia/Halrani/Halrani.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halrani"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0d3b27fc88c4093",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b11db860c616c99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "943ad5d841393b63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ce237db63c598fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d917c09b94c031e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06e2284165cd8a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c175778e31afa88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de39e8fecbf00b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lathernia/Halrani/Halrani.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Halrani"
+            }
+          },
+          {
+            "id": "441a374f0589ee9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lathernia/Halrani/Halrani.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Halrani"
+            }
+          },
+          {
+            "id": "ee634a1c597308bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfd33fa77857120a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lathernia/Halrani/Halrani.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Halrani"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "280e5f21f6ef3164",
+  "lastOpenFiles": [
+    "Lathernia/Halrani/Iron Golem Inn.md",
+    "Lathernia/Halrani/Halrani.md",
+    "Lathernia/Halrani/Plim's Clothing Emporium.md",
+    "Lathernia/Halrani/Plim's.md",
+    "Lathernia/Halrani/\"Plim's.md",
+    "Lathernia/Lathernia.md",
+    "Lathernia/The Crater of Ciasom.md",
+    "Lathernia/Halrani",
+    "Lathernia/Untitled.md",
+    "Welcome.md",
+    "Lathernia"
+  ]
+}
